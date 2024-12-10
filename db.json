@@ -1,0 +1,24 @@
+{
+  "products":[
+{"id":1,"name":"Kaffir cat","category":"Khaki"},
+{"id":2,"name":"Scarlet macaw","category":"Indigo"},
+{"id":3,"name":"Verreaux's sifaka","category":"Turquoise"},
+{"id":4,"name":"Slender-billed cockatoo","category":"Turquoise"},
+{"id":5,"name":"Scottish highland cow","category":"Goldenrod"},
+{"id":6,"name":"Eagle, golden","category":"Fuscia"},
+{"id":7,"name":"Raccoon, common","category":"Puce"},
+{"id":8,"name":"Bustard, denham's","category":"Orange"},
+{"id":9,"name":"Elephant, asian","category":"Puce"},
+{"id":10,"name":"Wallaby, whip-tailed","category":"Aquamarine"},
+{"id":11,"name":"White-browed sparrow weaver","category":"Purple"},
+{"id":12,"name":"Russian dragonfly","category":"Fuscia"},
+{"id":13,"name":"Bontebok","category":"Maroon"},
+{"id":14,"name":"Miner's cat","category":"Fuscia"},
+{"id":15,"name":"Topi","category":"Violet"},
+{"id":16,"name":"Shrike, crimson-breasted","category":"Pink"},
+{"id":17,"name":"Trotter, lily","category":"Green"},
+{"id":18,"name":"Cape raven","category":"Orange"},
+{"id":19,"name":"Capybara","category":"Red"},
+{"id":20,"name":"American badger","category":"Turquoise"}
+  ]
+}
